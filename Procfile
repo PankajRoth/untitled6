@@ -1,0 +1,1 @@
+web: ./build/install/untitled6/bin/untitled6
